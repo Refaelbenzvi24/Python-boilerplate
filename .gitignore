@@ -1,0 +1,8 @@
+venv
+.idea
+vendor
+
+*.log
+server.log
+
+.env
